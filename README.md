@@ -1,4 +1,4 @@
-- Hi, I’m @max2-cmd
+- Hi, I’m Maxi
 - I’m currently learning Rust lenguaje
 - I’m from Argentina country
 <!---
